@@ -1,0 +1,29 @@
+From f75eaa71a98f16c65dd23054922d6cd902fcc2fe Mon Sep 17 00:00:00 2001
+From: hariprasathvk-code <hariprasath.krishnamoorthi@psiog.com>
+Date: Thu, 25 Sep 2025 10:18:31 +0530
+Subject: [PATCH] index.h
+
+---
+ index.html | 5 -----
+ 1 file changed, 5 deletions(-)
+
+diff --git a/index.html b/index.html
+index 99b4890..6571d6c 100644
+--- a/index.html
++++ b/index.html
+@@ -9,11 +9,6 @@
+     <p>hariprasath</p>
+     <p>Krishnamoorthi</p>
+     <p>hulloo</p>
+-    <p>cs student</p>
+-    <p>SECE</p>
+-    
+-
+-
+ 
+ </body>
+ </html>
+\ No newline at end of file
+-- 
+2.50.1.windows.1
+
